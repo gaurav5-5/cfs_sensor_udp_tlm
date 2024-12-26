@@ -1,0 +1,5 @@
+# ninja log v5
+1	46	1735201686172580610	CMakeFiles/udp_listener.dir/src/main.c.o	ce257c18e8571e59
+1	57	1735201791291995155	CMakeFiles/udp_listener.dir/src/udp_listener.c.o	ebc6af1ba7c1164b
+2	180	1735199414124536668	CMakeFiles/udp_listener.dir/src/logger.c.o	d150dd871db31b3d
+57	366	1735201791608106423	udp_listener	e74b66a7255e0a

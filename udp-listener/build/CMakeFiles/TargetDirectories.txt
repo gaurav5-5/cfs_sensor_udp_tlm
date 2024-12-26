@@ -1,0 +1,3 @@
+/home/gp/coding/udp-listener/build/CMakeFiles/udp_listener.dir
+/home/gp/coding/udp-listener/build/CMakeFiles/edit_cache.dir
+/home/gp/coding/udp-listener/build/CMakeFiles/rebuild_cache.dir
